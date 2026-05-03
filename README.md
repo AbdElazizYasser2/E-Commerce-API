@@ -187,13 +187,3 @@ GET /api/v1/products?page=2&limit=10
 
 ---
 
-## 👨‍💻 Author
-
-**Abd Elaziz Yasser**
-- GitHub: [@AbdElazizYasser2](https://github.com/AbdElazizYasser2)
-
----
-
-## 📝 License
-
-This project is licensed under the ISC License.
