@@ -1,0 +1,22 @@
+{
+  "name_required": "اسم التصنيف مطلوب",
+  "name_string": "اسم التصنيف يجب أن يكون نصاً",
+  "name_length": "اسم التصنيف يجب أن يكون بين 3 و 100 حرف",
+  "name_exists": "اسم التصنيف موجود بالفعل",
+  "name_in_use": "اسم التصنيف مستخدم بالفعل",
+  "parent_id_invalid": "صيغة معرف التصنيف الأب غير صحيحة",
+  "parent_not_found": "لا يوجد تصنيف لهذا المعرف: {{id}}",
+  "parent_self": "التصنيف لا يمكن أن يكون أباً لنفسه",
+  "description_invalid": "الوصف يجب أن يكون نصاً",
+  "order_invalid": "الترتيب يجب أن يكون رقماً",
+  "is_active_invalid": "is_active يجب أن يكون boolean",
+  "is_featured_invalid": "is_featured يجب أن يكون boolean",
+  "id_invalid": "صيغة معرف التصنيف غير صحيحة",
+  "not_found": "لا يوجد تصنيف لهذا المعرف: {{id}}",
+  "fetched": "تم جلب التصنيف بنجاح",
+  "all_fetched": "تم جلب التصنيفات بنجاح",
+  "subcategories_fetched": "تم جلب التصنيفات الفرعية بنجاح",
+  "created": "تم إنشاء التصنيف بنجاح",
+  "updated": "تم تحديث التصنيف بنجاح",
+  "deleted": "تم حذف التصنيف بنجاح"
+}

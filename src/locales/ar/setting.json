@@ -1,0 +1,14 @@
+{
+  "language_invalid": "اللغة غير صحيحة",
+  "language_required": "اللغة مطلوبة",
+  "currency_invalid": "العملة غير صحيحة",
+  "currency_required": "العملة مطلوبة",
+  "timezone_invalid": "المنطقة الزمنية يجب أن تكون نصاً",
+  "not_found": "الإعدادات غير موجودة",
+  "fetched": "تم جلب الإعدادات بنجاح",
+  "updated": "تم تحديث الإعدادات بنجاح",
+  "language_updated": "تم تحديث اللغة بنجاح",
+  "currency_updated": "تم تحديث العملة بنجاح",
+  "notifications_updated": "تم تحديث الإشعارات بنجاح",
+  "reset": "تم إعادة تعيين الإعدادات بنجاح"
+}

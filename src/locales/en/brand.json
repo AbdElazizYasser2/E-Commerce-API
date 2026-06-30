@@ -1,0 +1,17 @@
+{
+  "name_required": "Brand name is required",
+  "name_length": "Name length must be between 3 and 100 chars",
+  "name_exists": "Brand name already exists",
+  "name_in_use": "Brand name already in use",
+  "logo_invalid": "Logo path must be a string",
+  "website_invalid": "Invalid website URL",
+  "description_invalid": "Description must be a string",
+  "is_active_invalid": "is_active must be a boolean value",
+  "id_invalid": "Invalid Brand ID format",
+  "not_found": "No brand found for this id: {{id}}",
+  "fetched": "Brand fetched successfully",
+  "all_fetched": "Brands fetched successfully",
+  "created": "Brand created successfully",
+  "updated": "Brand updated successfully",
+  "deleted": "Brand deleted successfully"
+}

@@ -1,0 +1,22 @@
+{
+  "name_required": "Category name is required",
+  "name_string": "Category name must be a string",
+  "name_length": "Name length must be between 3 and 100 chars",
+  "name_exists": "Category name already exists",
+  "name_in_use": "Category name already in use",
+  "parent_id_invalid": "Invalid Parent Category ID format",
+  "parent_not_found": "No category found for this parent_id: {{id}}",
+  "parent_self": "Category cannot be a parent of itself",
+  "description_invalid": "Description must be a string",
+  "order_invalid": "Order must be a number",
+  "is_active_invalid": "is_active must be a boolean",
+  "is_featured_invalid": "is_featured must be a boolean",
+  "id_invalid": "Invalid Category ID format",
+  "not_found": "No category found for this id: {{id}}",
+  "fetched": "Category fetched successfully",
+  "all_fetched": "Categories fetched successfully",
+  "subcategories_fetched": "Subcategories fetched successfully",
+  "created": "Category created successfully",
+  "updated": "Category updated successfully",
+  "deleted": "Category deleted successfully"
+}

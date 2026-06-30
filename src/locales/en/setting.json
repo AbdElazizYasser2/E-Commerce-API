@@ -1,0 +1,14 @@
+{
+  "language_invalid": "Invalid language",
+  "language_required": "Language is required",
+  "currency_invalid": "Invalid currency",
+  "currency_required": "Currency is required",
+  "timezone_invalid": "Timezone must be a string",
+  "not_found": "Settings not found",
+  "fetched": "Settings fetched successfully",
+  "updated": "Settings updated successfully",
+  "language_updated": "Language updated successfully",
+  "currency_updated": "Currency updated successfully",
+  "notifications_updated": "Notifications updated successfully",
+  "reset": "Settings reset successfully"
+}

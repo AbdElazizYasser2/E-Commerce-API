@@ -1,0 +1,22 @@
+{
+  "name_required": "Shipping method name is required",
+  "name_exists": "Shipping method name already exists",
+  "name_in_use": "Shipping method name already in use",
+  "cost_required": "Shipping cost is required",
+  "cost_invalid": "Cost must be a number",
+  "cost_negative": "Cost cannot be negative",
+  "threshold_invalid": "Threshold must be a number",
+  "threshold_negative": "Threshold cannot be negative",
+  "min_days_invalid": "Min days must be a positive integer",
+  "max_days_invalid": "Max days must be a positive integer",
+  "max_days_greater": "Max estimated days must be greater than or equal to min days",
+  "max_days_greater_update": "Max days must be greater than min days",
+  "is_active_invalid": "is_active must be a boolean",
+  "id_invalid": "Invalid Shipping Method ID format",
+  "not_found": "No shipping method found for this id: {{id}}",
+  "fetched": "Shipping method fetched successfully",
+  "all_fetched": "Shipping methods fetched successfully",
+  "created": "Shipping method created successfully",
+  "updated": "Shipping method updated successfully",
+  "deleted": "Shipping method deleted successfully"
+}

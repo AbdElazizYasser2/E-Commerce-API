@@ -1,0 +1,18 @@
+{
+  "title_invalid": "Title must be a string",
+  "title_too_long": "Title cannot exceed 100 characters",
+  "rating_required": "Rating is required",
+  "rating_invalid": "Rating must be between 1 and 5",
+  "product_id_required": "Product ID is required",
+  "product_id_invalid": "Invalid Product ID format",
+  "product_not_found": "No product found for this id: {{id}}",
+  "id_invalid": "Invalid Review ID format",
+  "not_found": "No review found for this id: {{id}}",
+  "fetched": "Review fetched successfully",
+  "all_fetched": "Reviews fetched successfully",
+  "product_fetched": "Product reviews fetched successfully",
+  "created": "Review created successfully",
+  "updated": "Review updated successfully",
+  "deleted": "Review deleted successfully",
+  "already_reviewed": "You have already reviewed this product"
+}

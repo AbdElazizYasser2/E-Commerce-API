@@ -1,0 +1,8 @@
+{
+  "not_found": "No {{resource}} found for this id: {{id}}",
+  "validation_error": "Invalid data",
+  "unauthorized": "You are not logged in, please login to get access",
+  "forbidden": "You do not have permission to perform this action",
+  "token_expired": "Your token has expired, please login again",
+  "token_invalid": "Invalid token, please login again"
+}

@@ -1,0 +1,10 @@
+{
+  "not_found": "Wishlist not found",
+  "fetched": "Wishlist fetched successfully",
+  "product_added": "Product added to wishlist successfully",
+  "product_removed": "Product removed from wishlist successfully",
+  "cleared": "Wishlist cleared successfully",
+  "product_id_required": "Product ID is required",
+  "product_id_invalid": "Invalid Product ID format",
+  "product_not_found": "No product found for this id: {{id}}"
+}

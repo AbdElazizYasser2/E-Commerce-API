@@ -1,0 +1,18 @@
+{
+  "first_name_required": "First name is required",
+  "last_name_required": "Last name is required",
+  "phone_required": "Phone number is required",
+  "phone_invalid": "Invalid phone number format for Egypt, SA, or Kuwait",
+  "address_line1_required": "Address line 1 is required",
+  "city_required": "City is required",
+  "postal_code_required": "Postal code is required",
+  "type_invalid": "Invalid address type",
+  "is_default_invalid": "is_default must be a boolean",
+  "id_invalid": "Invalid Address ID format",
+  "not_found": "No address found for this id: {{id}}",
+  "fetched": "Address fetched successfully",
+  "all_fetched": "Addresses fetched successfully",
+  "created": "Address created successfully",
+  "updated": "Address updated successfully",
+  "deleted": "Address deleted successfully"
+}
